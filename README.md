@@ -6,13 +6,13 @@ I am software engineer specializing in front-end development, particularly adept
 <br/>
 <div align="left"> 
   <a href="mailto:ioaneturmanidze2004@gmail.com">
-    <img style="paddingRight:5px" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img style="padding-right:5px" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ioane-turmanidze-1259b7279/" target="_blank">
-    <img  style="paddingRight:5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img  style="padding-right:5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://ioane-tech-portfolio.netlify.app/" target="_blank">
-     <img style="paddingRight:5px" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img style="padding-right:5px" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
