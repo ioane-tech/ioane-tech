@@ -1,7 +1,7 @@
 # 👾 Ioane Turmanidze
 **`Software Engineer (Front-end Developer/React.js)`**
 
-I am a skilled software engineer specializing in front-end development, particularly adept with React.js. My professional background reflects a strong foundation in this field, having gained valuable work experience and expertise in creating engaging user interfaces and experiences. While excelling in front-end technologies, I have a keen interest in expanding my knowledge to encompass back-end development, aspiring to transition into a full-stack developer role. My ambition includes the desire to eventually establish my own business, leveraging my diverse skill set and comprehensive understanding of both front-end and back end technologies to create innovative solutions.
+I am software engineer specializing in front-end development, particularly adept with React.js. My professional background reflects a strong foundation in this field, having gained valuable work experience and expertise in creating engaging user interfaces. While excelling in front-end technologies, I have a keen interest in expanding my knowledge to encompass back-end development, aspiring to transition into a full-stack developer role. My ambition includes the desire to eventually establish my own business, leveraging my diverse skill set and comprehensive understanding of both front-end and back end technologies to create innovative solutions.
 
 <br/>
 <div align="left"> 
