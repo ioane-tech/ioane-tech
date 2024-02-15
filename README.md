@@ -2,7 +2,7 @@
 **`Software Engineer (Front-end Developer/React.js)`**
 
 <p align="left">
-  <a style="textDecoration:none" href="https://www.linkedin.com/mynetwork/invite-connect/connections/">
+  <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/">
       <img align='left' alt="javaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-        original-wordmark.svg" />
       <span>Conections: 3k+</span>
   </a>
