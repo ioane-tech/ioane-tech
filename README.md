@@ -8,7 +8,7 @@
 
         <span>Conections: 3k+</span>
   </a>
-
+</p>
 ---
 ### 🎓 Languages and Tools
 
