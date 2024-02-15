@@ -5,10 +5,8 @@
     <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/">
     <img align='left' alt="javaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
-
-        <span>Conections: 3k+</span>
   </a>
-</p>
+  
 ---
 ### 🎓 Languages and Tools
 
