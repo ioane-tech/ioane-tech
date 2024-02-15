@@ -3,7 +3,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/">
-    <img alt="Conections on LinkedIn" title="Conections on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ioane-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Conectinos on LinkedIn&logoColor=white"/></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+      <bold><span>Conections: 3k+</span><bold/>
+  </a>
  
 ---
 ### 🎓 Languages and Tools
