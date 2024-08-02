@@ -1,7 +1,17 @@
 # 👾 Ioane Turmanidze
 **`Software Engineer (Front-end Developer/React.js)`**
 
-I am software engineer specializing in front-end development, particularly adept with React.js. My professional background reflects a strong foundation in this field, having gained valuable work experience and expertise in creating engaging user interfaces. While excelling in front-end technologies, I have a keen interest in expanding my knowledge to encompass back-end development, aspiring to transition into a full-stack developer role. My ambition includes the desire to eventually establish my own business, leveraging my diverse skill set and comprehensive understanding of both front-end and back end technologies to create innovative solutions.
+✅ Experienced software engineer specializing in web development with a deep expertise in crafting user-centric websites and applications using 🔹️React.js and 🔹️Next.js. Proficient in optimizing front-end performance, ensuring responsive design, and creating seamless user experiences. I thrive in delivering 🔸️high-quality solutions tailored to meet user needs.
+
+📚 Front-end development lecturer with a solid foundation in teaching 🔹️HTML, 🔹️CSS,🔹️JavaScript, 🔹️React.js, and 🔹️Next.js. Capable of breaking down complex concepts for beginners, guiding aspiring developers, and continuously updating my knowledge with the latest industry trends and best practices. I focus on equipping students with the essential skills and tools required for a successful career in web development.
+
+📊 Founder and  🔹️ lead developer of "War Arena," a strategic card game currently in development. Demonstrates strong  🔹️project management skills, from concept to implementation, ensuring a polished and engaging user interface and experience. My role involves overseeing the game's development, managing 🔸️quality control, and aligning the project with user requirements to deliver a   🔸️ top-notch gaming experience.
+
+🔎 Junior backend developer proficient in 🔸️Node.js and 🔸️Express, integrating  🔸️ MySQL with servers to create robust and efficient back-end systems. Adept at identifying requirements and implementing solutions that enhance overall functionality.
+
+#openToWork
+
+#FullStack #FrontEnd #BackEnd #Mentor
 
 <br/>
 <div align="left"> 
