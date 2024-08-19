@@ -1,5 +1,5 @@
 # 👾 Ioane Turmanidze
-**`Software Engineer (Front-end Developer/React.js)`**
+**`Software Engineer (Full-Stack Developer/ React.js | Next.js | Express.js | MERN-MySQL)`**
 
 ✅ Experienced software engineer specializing in web development with a deep expertise in crafting user-centric websites and applications using 🔹️React.js and 🔹️Next.js. Proficient in optimizing front-end performance, ensuring responsive design, and creating seamless user experiences. I thrive in delivering 🔸️high-quality solutions tailored to meet user needs.
 
